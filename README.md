@@ -1,9 +1,9 @@
 Ansible Sandbox
 ===============
 
-A Vagrant-based Ansible development environment to test Ansible roles on multiple operating systems.
+A Vagrant configuration to test Ansible roles against a variety of Linux distributions. 
 
-List of Linux distribution (used [bento](https://github.com/chef/bento) boxes):
+List of Linux distributions (used [bento](https://github.com/chef/bento) boxes):
 
   - CentOS 6
   - CentOS 7

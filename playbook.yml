@@ -1,0 +1,6 @@
+---
+- hosts: all
+  vars: []
+  pre_tasks: []
+  roles: []
+  tasks: []
